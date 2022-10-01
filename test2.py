@@ -1,0 +1,2 @@
+def printGreetig():
+    print("Hello")
